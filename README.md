@@ -1,4 +1,4 @@
-# AeroPython student projects, Spring 2016
+# AeroPython student projects, Spring 2017
 
 Students are requested to fork this repository, add their project as an IPython Notebook 
 (include any dependencies, like figures, data or style sheets), and submit a pull request.
