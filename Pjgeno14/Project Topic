@@ -1,0 +1,9 @@
+Project Topic
+
+I would like to compare the lift and drag components of a rigid bird wing vs a membranous bat wing using xflr5. I will use the software to calculate the lift and drag at various angles of attack for each animal and compare them. I will also compare the pressure coefficients of each animal's wings to get a field consistent with the calculated lift values.
+
+References will include (to be cited properly in project):
+
+1) PHILIP C WITHERS, "AN AERODYNAMIC ANALYSIS OF BIRD WINGS AS FIXED AEROFOILS"
+2) ArnoldSong, XiaodongTian, EmilyIsraeli, RicardoGalvao, KristinBishop, SharonSwartz, and Kenneth Breuer, "Aeromechanics of Membrane Wings with Implications for Animal Flight"
+3) Anders Hedenstr¨om1, L Christoffer Johansson1 and Geoffrey R Speddin, "Bird or bat: comparing airframe design and ﬂight performance"
